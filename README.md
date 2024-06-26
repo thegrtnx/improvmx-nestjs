@@ -38,7 +38,7 @@ You can configure the `ImprovMX API key` by using the NestJS Config module. Add 
 
 You can download the improvmx-nestjs library from the following sources:
 
-- [npm:](https://www.npmjs.com/package/improvmx-nestjs) `npm install improvmx-nestjs`
+- [npm:](https://www.npmjs.com/package/improvmx-nestjs) `npm install --save improvmx-nestjs`
 
 - [GitHub:](https://github.com/thegrtnx/improvmx-nestjs) `git clone https://github.com/thegrtnx/improvmx-nestjs.git`
 

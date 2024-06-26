@@ -1,6 +1,6 @@
 {
 	"name": "improvmx-nestjs",
-	"version": "0.0.3",
+	"version": "1.0.5",
 	"description": "A NestJS library for ImprovMX API",
 	"author": "@thegrtnx",
 	"main": "/index.js",
@@ -12,10 +12,10 @@
 		"build": "tsc -p tsconfig.lib.json"
 	},
 	"keywords": [
-		"nestjs",
-		"npm",
-		"package",
-		"quick-start"
+		"improvmx",
+		"email server",
+		"smtp",
+		"nestjs"
 	],
 	"repository": {
 		"type": "git",
