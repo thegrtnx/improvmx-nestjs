@@ -1,9 +1,9 @@
 {
-	"name": "improvmx-nestjs",
-	"version": "0.0.3",
-	"description": "A NestJS library for ImprovMX API",
-	"author": "https://github.com/thegrtnx",
-	"main": "dist/index.js",
+	"name": "improvmx",
+	"version": "0.0.4",
+	"description": "A NestJS/Node.js library for ImprovMX API",
+	"author": "@thegrtnx",
+	"main": "/index.js",
 	"types": "dist/index.d.ts",
 	"files": [
 		"dist/**/*"

@@ -1,7 +1,7 @@
 # compiled output
 /dist
 /node_modules
-/lib/node_modules
+/improvmx/dist
 /build
 
 # Logs

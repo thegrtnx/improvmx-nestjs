@@ -1,0 +1,16 @@
+{
+	"projects": {
+		"improvmx": {
+			"type": "library",
+			"root": "src",
+			"entryFile": "index",
+			"sourceRoot": "src",
+			"compilerOptions": {
+				"tsConfigPath": "tsconfig.lib.json"
+			}
+		}
+	},
+	"compilerOptions": {
+		"webpack": true
+	}
+}
