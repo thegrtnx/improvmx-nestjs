@@ -1,7 +1,7 @@
 {
-	"name": "improvmx",
-	"version": "0.0.4",
-	"description": "A NestJS/Node.js library for ImprovMX API",
+	"name": "improvmx-nestjs",
+	"version": "0.0.3",
+	"description": "A NestJS library for ImprovMX API",
 	"author": "@thegrtnx",
 	"main": "/index.js",
 	"types": "dist/index.d.ts",
@@ -10,6 +10,16 @@
 	],
 	"scripts": {
 		"build": "tsc -p tsconfig.lib.json"
+	},
+	"keywords": [
+		"nestjs",
+		"npm",
+		"package",
+		"quick-start"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thegrtnx/improvmx-nestjs"
 	},
 	"dependencies": {
 		"@nestjs/axios": "^3.0.2",
